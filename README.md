@@ -8,7 +8,7 @@ respectively.
 
 
 |                                     | German     | English    | French     |
-|=====================================|============|============|============|
+| ----------------------------------- | ---------- | ---------- | ---------- |
 | Source of the texts                 | TextGrid   | Gutenberg  | Ebooks libres et gratuits|
 | Range of original publication dates | 1774–1926  | 1838–1921  | 1827–1934  |
 | Total number of tokens              | 10,354,989 | 11,771,901 | 7,401,126  |
