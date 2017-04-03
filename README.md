@@ -6,6 +6,7 @@ This repository contains three collection of novels developed for stylometric au
 respectively. 
 
 
+
 |                                     | German     | English    | French     |
 |=====================================|============|============|============|
 | Source of the texts                 | TextGrid   | Gutenberg  | Ebooks libres et gratuits|
